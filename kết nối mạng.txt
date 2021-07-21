@@ -1,0 +1,7 @@
+domain: remotemysql.com
+port: 3306
+username: IcX4eYCO77
+password: D6Q7iL9wHg
+
+
+http://172.16.0.1:8002/index.php?zone=wifi&redirurl=http%3A%2F%2Fwww.msftconnecttest.com%2Fredirect&fbclid=IwAR23_ikXc56wFGhRfZfdI2pgEWK8UWZEWj2JReXlix26lRp0qR0JfLg5_9w
